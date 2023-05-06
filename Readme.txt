@@ -13,7 +13,7 @@
 Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 Для анализа были использованы модели:
-- DecisionTreeClassifier
+- DecisionTreeClassifier (в качестве сплитера используется метод рандом)
 - LogisticRegression
 - RandomForestClassifier
 
